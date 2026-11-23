@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @rrmnj
+/src/backend/database.py      @rrmnj
+/src/backend/routers/auth.py  @rrmnj
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @rrmnj
